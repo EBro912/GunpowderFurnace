@@ -1,0 +1,6 @@
+name: GunpowderFurnace
+version: 1.0.0
+main: com.alltoasters.gunpowderfurnace.GunpowderFurnace
+description: Makes cooking gunpowder in a furnace cause an explosion
+author: EBro912
+api-version: 1.20
